@@ -1,0 +1,6 @@
+{
+  "name": "ឆ្នោតសំណាង 1/99",
+  "description": "Authentic Khmer 1/99 lottery gaming platform with live 5-post draws (A, B, C, D, E), real-time countdown, interactive betting grid, instant receipt printing, and win/loss analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
